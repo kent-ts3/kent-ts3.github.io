@@ -6,12 +6,12 @@ h1 {
     font-weight: 700;
 }
 
-.sm-icons {
-    font-size: 1.5rem;
+.nav-link {
+    font-weight: 600;
 }
 
-.hero {
-    background-color: navy;
+.sm-icons {
+    font-size: 1.5rem;
 }
 
 .mask {

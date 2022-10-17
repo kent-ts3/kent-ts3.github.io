@@ -1,0 +1,27 @@
+body {
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+.sm-icons {
+    font-size: 1.5rem;
+}
+
+.hero {
+    background-color: navy;
+}
+
+.mask {
+    background-color: rgba(251, 251, 251, 0.35);
+}
+
+.link-icon {
+    font-size: 5rem;
+}
+
+#projects {
+    background-color: #e5e7eb;
+}

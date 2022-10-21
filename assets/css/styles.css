@@ -11,24 +11,12 @@ h1 {
     font-weight: 600;
 }
 
-.sm-icons {
-    font-size: 1.5rem;
-}
-
 .mask {
     background-color: rgba(251, 251, 251, 0.35);
 }
 
-.link-icon {
-    font-size: 5rem;
-}
-
 #projects {
     background-color: #e5e7eb;
-}
-
-.contact-icon {
-    font-size: 2.5rem;
 }
 
 .contact-text {
